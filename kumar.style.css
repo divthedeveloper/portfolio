@@ -123,3 +123,8 @@ body {
 .nav-pills > .active > a, .nav-pills > .active > a:hover {
     background-color: purple;
 }
+
+.resize {
+  width:200px;
+  height:40px;
+}
